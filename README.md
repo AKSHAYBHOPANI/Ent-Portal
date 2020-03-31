@@ -1,0 +1,2 @@
+# Ent-Portal
+A local deployed portal with all documents you need in a central repository, Useful tools and shared updated experiences among everyone. It took me more than a month to deploy it just because it was a side project and due to various limitations for hosting and editing in our office. It uses latest HTML 5 and Jquery for its implementation. Hosted locally in Shared Folder and only accessible inside office premises or through VPN. We call it “DAILY ESSENTIALS WEB”.
