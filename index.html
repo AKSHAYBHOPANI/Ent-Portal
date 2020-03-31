@@ -1,0 +1,52 @@
+<head>
+<title>ENT Portal </title>
+<link rel="stylesheet"  href="style.css">
+</head>
+<body>
+<h1 align=center >DAILY ESSENTIALS WEB <h1>
+  <div id="menu-nav">
+  <div id="navigation-bar">
+    <ul>
+      <li><a href="index.html"><i class="fa fa-home"></i><span>Home</span></a></li>
+      <li><a href=".//Database/Link Updated"><i class="fa fa-home"></i><span>Link Updated</span></a></li>
+      <li><a href=".//Database/AP Radio"><i class="fa fa-handshake"></i><span>AP Radio</span></a></li>
+      <li><a href=".//Database/Daily Essentials/"><i class="fa fa-book"></i><span>Daily Essentials</span></a></li>
+	  <li><a href=".//TTMaster/index.html"><i class="fa fa-rss"></i> <span>TT Master</span></a></li>
+    </ul>
+</div>
+</div>
+<div align=center >
+<label id="lblGreetings"></label>
+</div>
+<div style="background-color:white;" >
+<h3>Contents<h3>
+<a href=".//assests/portals.html">1. Tikona Portals</a><p></p>
+<a href=".//assests/speedtest.html">2. Radio SpeedTest</a><p></p>
+<a href=".//assests/telnet.html">3. Telnet </a><p></p>
+<a href=".//assests/cnmaestro.html">4. CnMaestro </a><p></p>
+<a href=".//assests/flexmaster.html">5. T301/Flex Master </a><p></p>
+<a href=".//Database/Training">6. Training</a><p></p>
+<a href=".//Database/On Time"> 7. On Time </a><p></p>
+<a href=".//Database/1st Mail Template">8. 1st Mail Template </a><p></p>
+
+<script>
+    var myDate = new Date();
+    var hrs = myDate.getHours();
+
+    var greet;
+
+    if (hrs < 12)
+        greet = 'Good Morning';
+    else if (hrs >= 12 && hrs <= 17)
+        greet = 'Good Afternoon';
+    else if (hrs >= 17 && hrs <= 24)
+        greet = 'Good Evening';
+
+    document.getElementById('lblGreetings').innerHTML =
+        '<b>' + greet + '</b> and Welcome To Enterprise Portal!';
+</script> 
+</body>
+</div>
+<div align=center >
+<footer style="color:white; font-size:25px; " > Always Believe Something Wonderful Is About To Happen. </footer>
+</div>
