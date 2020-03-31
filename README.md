@@ -13,7 +13,7 @@ So Introducing Enterprise Portal,
 
  
 
-![Home](./image003.png)
+![Home](image003.png)
 
  
 
