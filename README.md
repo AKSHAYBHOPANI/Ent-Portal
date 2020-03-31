@@ -14,11 +14,6 @@ So Introducing Enterprise Portal,
  
 
 ![Home](https://github.com/AKSHAYBHOPANI/Ent-Portal/blob/master/image003.jpg)
-
- 
-
-A local deployed portal with all documents you need in a central repository, Useful tools and shared updated experiences among everyone. It took me more than a month to deploy it just because it was a side project and due to various limitations for hosting and editing in our office. It uses latest HTML 5 and Jquery for its implementation. Hosted locally in Shared Folder and only accessible inside office premises or through VPN. We call it “DAILY ESSENTIALS WEB”.
-
  
 
 Link - file://///192.168.147.122/share%20folder/Portal/index.html
@@ -39,7 +34,7 @@ Documents at your Finger Tips
 
  
 
-![Documents](./image009.png)
+![Documents](https://github.com/AKSHAYBHOPANI/Ent-Portal/blob/master/image009.jpg)
 
  
 
@@ -51,7 +46,7 @@ Telnet From Browser
 
  
 
-![Home](./image010.png)
+![Telnet](https://github.com/AKSHAYBHOPANI/Ent-Portal/blob/master/image010.jpg)
 
  
 
@@ -63,7 +58,7 @@ TT Master
 
  
 
-![Home](./image012.png)
+![TT Master](https://github.com/AKSHAYBHOPANI/Ent-Portal/blob/master/image012.jpg)
 
  
 
@@ -75,7 +70,7 @@ Links and Tools
 
  
 
-![Home](./image014.png)
+![Tools](https://github.com/AKSHAYBHOPANI/Ent-Portal/blob/master/image014.jpg)
 
  
 
